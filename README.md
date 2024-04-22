@@ -10,3 +10,6 @@
 G10dra0522/G10dra0522 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+I’m interested in ...Technical Analysis algorithm in financial market 
+
+- 🌱 I’m currently learning
